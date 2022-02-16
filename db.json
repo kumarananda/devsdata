@@ -1,21 +1,7 @@
 {
 
 "products" : [
-    {
-        "id"             : 1,
-        "Product Name"  : "Ananda",
-        "class"          : "MERN"
-    },
-    {
-        "id"             : 2,
-        "Product Name"  : "Ananda",
-        "class"          : "MERN"
-    },{
-        "id"             : 3,
-        "Product Name"  : "Ananda",
-        "class"          : "MERN"
-    }
-],
+
 "StudentsMark" : [
         {
             "id"  : "1",
