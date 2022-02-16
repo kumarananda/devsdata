@@ -1,6 +1,122 @@
 {
 
-"StudentsMark" : [
+    "Devlopers" : [
+        {
+            "id"        : "1",
+            "Name"      :"Abu sayeed",
+            "Gender"    :"Male",
+            "Skills"    :["Laravel Developer","React Developer","IOS Developer"],
+            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1610832347.png",
+            "Facebook"  :"https://www.facebook.com/",
+            "Twitter"   :"https://twitter.com",
+            "Linkedin"  :"https://www.linkedin.com",
+            "Email"     :"anandasaha484@gmail.com"
+        },
+        {
+            "id"        : "2",
+            "Name"      :"Mohammad Nur Amin",
+            "Gender"    :"Male",
+            "Skills"    :["Laravel Developer","React Developer","IOS Developer"],
+            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1622219295.png",
+            "Facebook"  :"https://www.facebook.com/",
+            "Twitter"   :"https://twitter.com",
+            "Linkedin"  :"https://www.linkedin.com",
+            "Email"     :"anandasaha484@gmail.com"
+        },
+        {
+            "id"        : "3",
+            "Name"      :"Md. Abu Sufian",
+            "Gender"    :"Male",
+            "Skills"    :["React Developer","IOS Developer"],
+            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1614796595.png",
+            "Facebook"  :"https://www.facebook.com/",
+            "Twitter"   :"https://twitter.com",
+            "Linkedin"  :"https://www.linkedin.com",
+            "Email"     :"anandasaha484@gmail.com"
+        },
+        {
+
+            "id"        : "4",
+            "Name"      :"Toyhedul Islam Achem",
+            "Gender"    :"Female",
+            "Skills"    :["Laravel Developer","React Developer"],
+            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1639163748.png",
+            "Facebook"  :"https://www.facebook.com/",
+            "Twitter"   :"https://twitter.com",
+            "Linkedin"  :"https://www.linkedin.com",
+            "Email"     :"anandasaha484@gmail.com"
+        },
+        {
+            "id"        : "5",
+            "Name"      :"Rupa Roy ",
+            "Gender"    :"Female",
+            "Skills"    :["Laravel Developer","React Developer","IOS Developer"],
+            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1637862556.png",
+            "Facebook"  :"https://www.facebook.com/",
+            "Twitter"   :"https://twitter.com",
+            "Linkedin"  :"https://www.linkedin.com",
+            "Email"     :"anandasaha484@gmail.com"
+        },
+        {
+            "id"        : "6",
+            "Name"      :"Zonayed",
+            "Gender"    :"Female",
+            "Skills"    :["Laravel Developer","IOS Developer"],
+            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1643731199.png",
+            "Facebook"  :"https://www.facebook.com/",
+            "Twitter"   :"https://twitter.com",
+            "Linkedin"  :"https://www.linkedin.com",
+            "Email"     :"anandasaha484@gmail.com"
+        },
+        {
+            "id"        : "7",
+            "Name"      :"MD. Anamul Haque ",
+            "Gender"    :"Male",
+            "Skills"    :["React Developer","IOS Developer"],
+            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1625621718.png",
+            "Facebook"  :"https://www.facebook.com/",
+            "Twitter"   :"https://twitter.com",
+            "Linkedin"  :"https://www.linkedin.com",
+            "Email"     :"anandasaha484@gmail.com"
+        },
+        {
+            "id"        : "8",
+            "Name"      :"sharmin akter",
+            "Gender"    :"Female",
+            "Skills"    :["Laravel Developer","React Developer"],
+            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1643219021.png",
+            "Facebook"  :"https://www.facebook.com/",
+            "Twitter"   :"https://twitter.com",
+            "Linkedin"  :"https://www.linkedin.com",
+            "Email"     :"anandasaha484@gmail.com"
+        },
+        {
+
+
+            "id"        : "9",
+            "Name"      :"MD Abu Raihan",
+            "Gender"    :"Male",
+            "Skills"    :["Laravel Developer","IOS Developer"],
+            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1643807531.png",
+            "Facebook"  :"https://www.facebook.com/",
+            "Twitter"   :"https://twitter.com",
+            "Linkedin"  :"https://www.linkedin.com",
+            "Email"     :"anandasaha484@gmail.com"
+        },
+        {
+            "id"        : "10",
+            "Name"      :"Ananda Kumar Saha",
+            "Gender"    :"Male",
+            "Skills"    :["Laravel Developer","React Developer"],
+            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1644677130.png",
+            "Facebook"  :"https://www.facebook.com/",
+            "Twitter"   :"https://twitter.com",
+            "Linkedin"  :"https://www.linkedin.com",
+            "Email"     :"anandasaha484@gmail.com"
+        }
+        
+        ],
+     "StudentsMark" : [
         {
             "id"  : "1",
             "Name":"Abu sayeed",
@@ -140,121 +256,5 @@
             "Social":"53",
             "rel":"53"
         }
-    ],
-    "Devlopers" : [
-        {
-            "id"        : "1",
-            "Name"      :"Abu sayeed",
-            "Gender"    :"Male",
-            "Skills"    :["Laravel Developer","React Developer","IOS Developer"],
-            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1610832347.png",
-            "Facebook"  :"https://www.facebook.com/",
-            "Twitter"   :"https://twitter.com",
-            "Linkedin"  :"https://www.linkedin.com",
-            "Email"     :"anandasaha484@gmail.com"
-        },
-        {
-            "id"        : "2",
-            "Name"      :"Mohammad Nur Amin",
-            "Gender"    :"Male",
-            "Skills"    :["Laravel Developer","React Developer","IOS Developer"],
-            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1622219295.png",
-            "Facebook"  :"https://www.facebook.com/",
-            "Twitter"   :"https://twitter.com",
-            "Linkedin"  :"https://www.linkedin.com",
-            "Email"     :"anandasaha484@gmail.com"
-        },
-        {
-            "id"        : "3",
-            "Name"      :"Md. Abu Sufian",
-            "Gender"    :"Male",
-            "Skills"    :["React Developer","IOS Developer"],
-            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1614796595.png",
-            "Facebook"  :"https://www.facebook.com/",
-            "Twitter"   :"https://twitter.com",
-            "Linkedin"  :"https://www.linkedin.com",
-            "Email"     :"anandasaha484@gmail.com"
-        },
-        {
-
-            "id"        : "4",
-            "Name"      :"Toyhedul Islam Achem",
-            "Gender"    :"Female",
-            "Skills"    :["Laravel Developer","React Developer"],
-            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1639163748.png",
-            "Facebook"  :"https://www.facebook.com/",
-            "Twitter"   :"https://twitter.com",
-            "Linkedin"  :"https://www.linkedin.com",
-            "Email"     :"anandasaha484@gmail.com"
-        },
-        {
-            "id"        : "5",
-            "Name"      :"Rupa Roy ",
-            "Gender"    :"Female",
-            "Skills"    :["Laravel Developer","React Developer","IOS Developer"],
-            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1637862556.png",
-            "Facebook"  :"https://www.facebook.com/",
-            "Twitter"   :"https://twitter.com",
-            "Linkedin"  :"https://www.linkedin.com",
-            "Email"     :"anandasaha484@gmail.com"
-        },
-        {
-            "id"        : "6",
-            "Name"      :"Zonayed",
-            "Gender"    :"Female",
-            "Skills"    :["Laravel Developer","IOS Developer"],
-            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1643731199.png",
-            "Facebook"  :"https://www.facebook.com/",
-            "Twitter"   :"https://twitter.com",
-            "Linkedin"  :"https://www.linkedin.com",
-            "Email"     :"anandasaha484@gmail.com"
-        },
-        {
-            "id"        : "7",
-            "Name"      :"MD. Anamul Haque ",
-            "Gender"    :"Male",
-            "Skills"    :["React Developer","IOS Developer"],
-            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1625621718.png",
-            "Facebook"  :"https://www.facebook.com/",
-            "Twitter"   :"https://twitter.com",
-            "Linkedin"  :"https://www.linkedin.com",
-            "Email"     :"anandasaha484@gmail.com"
-        },
-        {
-            "id"        : "8",
-            "Name"      :"sharmin akter",
-            "Gender"    :"Female",
-            "Skills"    :["Laravel Developer","React Developer"],
-            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1643219021.png",
-            "Facebook"  :"https://www.facebook.com/",
-            "Twitter"   :"https://twitter.com",
-            "Linkedin"  :"https://www.linkedin.com",
-            "Email"     :"anandasaha484@gmail.com"
-        },
-        {
-
-
-            "id"        : "9",
-            "Name"      :"MD Abu Raihan",
-            "Gender"    :"Male",
-            "Skills"    :["Laravel Developer","IOS Developer"],
-            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1643807531.png",
-            "Facebook"  :"https://www.facebook.com/",
-            "Twitter"   :"https://twitter.com",
-            "Linkedin"  :"https://www.linkedin.com",
-            "Email"     :"anandasaha484@gmail.com"
-        },
-        {
-            "id"        : "10",
-            "Name"      :"Ananda Kumar Saha",
-            "Gender"    :"Male",
-            "Skills"    :["Laravel Developer","React Developer"],
-            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1644677130.png",
-            "Facebook"  :"https://www.facebook.com/",
-            "Twitter"   :"https://twitter.com",
-            "Linkedin"  :"https://www.linkedin.com",
-            "Email"     :"anandasaha484@gmail.com"
-        }
-        
-        ]
+    ]
 }
